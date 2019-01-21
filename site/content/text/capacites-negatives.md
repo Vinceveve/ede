@@ -1,0 +1,12 @@
+---
+id: capacites-negatives
+title: Capacités négatives
+date: Mon Jan 21 2019 10:16:49 GMT+0100 (heure normale d’Europe centrale)
+author_id: dupuis-pierre-andre
+author: Dupuis Pierre-André
+category: Articles
+family: Auteurs du Grex
+description: >-
+Dupuis, P.A., (2013), Capacités négatives, Expliciter n° 99, p. 46-47 
+pdf: /pdf/capacites-negatives.pdf
+---

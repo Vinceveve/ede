@@ -1,7 +1,7 @@
 {
-  "name": "victor-hugo",
+  "name": "Expliciter.fr",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+  "description": "L'entretien d'explicictation",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
@@ -9,11 +9,14 @@
     "build": "gulp build",
     "build-preview": "gulp build-preview",
     "start": "gulp server",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "scrape": "node scrape.js"
   },
-  "author": "",
+  "author": "Vincent Vermersch <v.ve@me.com>",
   "license": "MIT",
   "dependencies": {
+    "rx": "^4.1.0",
+    "cheerio": "^1.0.0-rc.2",
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.0.0",
     "babel-loader": "^7.0.0",
